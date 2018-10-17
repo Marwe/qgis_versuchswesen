@@ -1,0 +1,5 @@
+*.md.html
+*.md.pdf
+Thumbs.db
+gdalwmscache/
+tmp/
