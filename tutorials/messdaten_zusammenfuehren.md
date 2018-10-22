@@ -14,7 +14,7 @@ Ausgangsdaten:
     * s.o., zu `fiona_ltz_mx_sh`
 * Attribute übertragen
     * Attribute zusammenfassen, aber keine Funktionen angeben (mean, etc. löschen)
-        * `count` wird als einziger Wert berechnet ![](images/qgis_transfer_att.png){width=50%}
+        * `count` wird als einziger Wert berechnet ![](images/qgis_transfer_att.png)
 * Selektion von Flächen mit zu geringen Messwertanzahlen (GPS Ungenauigkeit, Wendebereiche teilweise in benachbarten Flächen)
     * in der Attributtabelle sortieren, selektieren, prüfen, hier: < 650 Punkte verwerfen
     * Berechnung der Fläche
