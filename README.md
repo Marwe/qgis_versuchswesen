@@ -9,15 +9,15 @@ description: QGIS für das landwirtschaftliche Versuchswesen
 
 Möglichkeiten der Nutzung:
 
-* Issues auf github nutzen für einzelne Anforderungen
+* [Issues](https://github.com/Marwe/qgis_versuchswesen/issues) auf github nutzen für einzelne Anforderungen
 * Anforderungen in einem Dokument strukturieren
 * Tutorials hier erstellen oder verlinken
     * zunächst einzelne, kleine Hilfen, HowTos
     * Sprache: DE oder EN
     * auch auf anderen Plattformen anbieten (z.B. http://www.qgistutorials.com oder [QGIS Documentation](https://www.qgis.org/en/docs/index.html) [Training Manual (2.18)](https://docs.qgis.org/2.18/en/docs/training_manual/), sofern passend)
-* Jekyll nutzen? eigener Account nötig für github pages (account.github.io)
+* Jekyll nutzen via github pages (eigener Account nötig?)
     * Tutorials in Markdown sind leicht konvertibel auch in andere Formate (HTML, PDF, ...), z.B. via pandoc
-* Skripte und Addons in diesem Repo entwickelns bzw. Repos verlinken
+* Skripte und Addons in diesem Repo entwickeln bzw. Repos verlinken
 
 ## QGIS Tutorials
 
