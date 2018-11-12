@@ -1,4 +1,5 @@
 ---
+permalink: README.html
 layout: home
 title: QGIS im Versuchswesen
 tagline: Entwicklung und Dokumentation des Einsatzes von QGIS für das landwirtschaftliche Versuchswesen
